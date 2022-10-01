@@ -1,8 +1,8 @@
-# blur_bottom_bar
+# Fork of Flutter blur_bottom_bar
 
-Flutter blur bottom bar
+> _directly drawing the color with opacity is faster. Also using an `Opacity` widget was not necessary in this case. So i removed it._
 
-
+## Original README
 This is a recreation of the ios tab view with material design for android and ios
 
 
