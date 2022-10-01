@@ -1,6 +1,8 @@
 # Fork of Flutter blur_bottom_bar
 
-> _Directly drawing the color with opacity is faster. Also using an `Opacity` widget was not necessary in this case. So i removed it._
+> _Directly drawing the color with opacity is faster. Also using an `Opacity` widget was not necessary in this case. So I removed it._
+
+See: [dev](https://github.com/jibbex/blur_bottom_bar/tree/dev) branch
 
 ## Original README
 This is a recreation of the ios tab view with material design for android and ios
